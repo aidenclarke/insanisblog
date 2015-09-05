@@ -1,0 +1,17 @@
+{
+  "index": {
+    "nodisqus": true
+  },
+  "loljk": {
+    "layout": false
+  },
+  "404": {
+    "layout": false
+  },
+  "posts": [
+    { "slug": "first-post", "title": "Welcome!" },
+    { "slug": "testblog", "title": "Test Blog" },
+    { "slug": "minecraft", "title": "Minecraft" },
+    { "slug": "splatoon", "title": "Splatoon" }
+  ]
+}

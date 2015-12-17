@@ -22,7 +22,7 @@ that means you can do whatever you like without other people bothering you.
 Now here is where Minecraft can get very fun. Multiplayer worlds, or,
 servers, allow anyone from around the globe to join that server. And, there
 are many different types of "servers" but, I won't list them all. Many
-famous Minecraft youtubers (e. SkyDoesMinecraft, ExplodingTNT) have their
+famous Minecraft youtubers (e. SkyDoesMnnecraft, ExplodingTNT) have their
 own server. It's a way of connecting out to the real world, right at home!
 
 
